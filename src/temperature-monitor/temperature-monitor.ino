@@ -1,5 +1,5 @@
 /**
- * arduino-uno-temperature-monitor v1.0.1 (2018-06-10)
+ * arduino-uno-temperature-monitor v1.0.2 (2018-06-16)
  * Copyright 2018 Oliver Findl
  * @license MIT
  */

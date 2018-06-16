@@ -19,7 +19,7 @@ Source code for simple temperature monitor built with Arduino UNO board, DS18B20
 
 ## Schema
 
-![schema](.assets/temperature-monitor.png)
+![schema](assets/temperature-monitor.png)
 
 ## Permissions
 
